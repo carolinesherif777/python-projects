@@ -1,0 +1,32 @@
+# 🐍 Snake Game
+
+A classic Snake Game built using Python and the Turtle graphics library.
+
+## Features
+
+- Snake movement
+- Food generation
+- Score system
+- High score tracking
+- Collision detection
+- Snake growth
+
+## Technologies
+
+- Python
+- Turtle
+- Random
+- Time
+
+## What I Learned
+
+- Loops
+- Functions
+- Lists
+- Conditionals
+- Event handling
+- Collision detection
+- Object movement
+
+
+
