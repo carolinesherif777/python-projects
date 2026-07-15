@@ -54,7 +54,6 @@ python snake.py
 
 ## 📸 Screenshot
 
-> Add a screenshot of the game here.
 
 ## 🎯 Learning Outcome
 
