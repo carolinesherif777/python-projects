@@ -42,17 +42,6 @@ Snake_Game/
 └── screenshot.png
 ```
 
-## 🚀 Getting Started
-
-1. Clone the repository.
-2. Make sure Python is installed.
-3. Run the following command:
-
-```bash
-python snake.py
-```
-
-## 📸 Screenshot
 
 
 ## 🎯 Learning Outcome
