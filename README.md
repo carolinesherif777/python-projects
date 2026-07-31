@@ -6,13 +6,13 @@ This repository showcases my Python learning journey through practical projects.
 
 ---
 
-## 🗺️ Project Roadmap
+# 🗺️ Project Roadmap
 
 | Project | Status |
 |---------|--------|
 | 🐍 Snake Game | ✅ Completed |
 | 🧮 Calculator | ✅ Completed |
-| 🎯 Number Guessing Game | ⬜ Planned |
+| 🎯 Number Guessing Game | ✅ Completed |
 | 📝 To-Do List | ⬜ Planned |
 | 🔐 Password Generator | ⬜ Planned |
 | ❓ Quiz Application | ⬜ Planned |
@@ -25,7 +25,7 @@ This repository showcases my Python learning journey through practical projects.
 
 ---
 
-## 🛠️ Technologies
+# 🛠️ Technologies
 
 - Python
 - Tkinter
@@ -35,13 +35,23 @@ This repository showcases my Python learning journey through practical projects.
 
 ---
 
-## 📈 Progress
+# 📈 Progress
 
-- ✅ Built interactive GUI applications using **Tkinter**.
-- ✅ Developed a classic **Snake Game** using Turtle.
-- ✅ Built a fully functional **Calculator** with Python and Tkinter.
-- 🚀 Continuously learning and building new Python projects.
+- ✅ Built a classic **Snake Game** using Turtle.
+- ✅ Developed a fully functional **Calculator GUI** using Tkinter.
+- ✅ Created an interactive **Number Guessing Game** with Tkinter, input validation, and game logic.
+- 🚀 Continuously learning Python by building real-world projects and improving my programming skills.
 
 ---
 
-⭐ **This repository will continue to grow as I explore new Python concepts, build more projects, and improve my programming skills.**
+# 🎯 Goals
+
+- Build beginner to intermediate Python projects.
+- Strengthen problem-solving and programming skills.
+- Learn GUI development with Tkinter.
+- Explore file handling, APIs, data analysis, and machine learning.
+- Create a professional Python portfolio on GitHub.
+
+---
+
+⭐ This repository will continue to grow as I explore new Python concepts, build more exciting projects, and improve my software development skills.
